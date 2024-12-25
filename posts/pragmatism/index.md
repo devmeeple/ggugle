@@ -197,3 +197,14 @@ Tistory, NAVER, Hashnode 다양한 시도를 했다. 하지만 현재 GitHub Pag
   - 소리 내며 읽기(TTS), 배포하고 읽기, 자고 나서 읽기 등
   - LLM 서비스(ChatGPT, Claude 등) 피드백 요청: 장점, 개선할 점 여러 번 질문하기
   - 나만의 퇴고 기준 만들기: 명확, 명료, 시각적인 요소, 개인적인 경험
+
+## 4.4 이미지 도식화하기: AI 서비스 활용
+
+> Napkin AI를 사용한 이미지 도식화
+
+- 도식화를 적절히 사용하면 이해를 높인다.
+- 직접 만들기: draw.io, Google Slides, Figma, Keynote
+
+**<참고 자료>**
+
+- [Napkin AI](https://www.napkin.ai/)
